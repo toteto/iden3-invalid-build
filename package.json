@@ -1,0 +1,8 @@
+{
+  "name": "iden3-invalid-build",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@iden3/js-iden3-core": "^1.4.0"
+  }
+}
